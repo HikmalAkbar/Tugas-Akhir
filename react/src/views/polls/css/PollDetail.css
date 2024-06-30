@@ -1,0 +1,18 @@
+.poll-detail-page {
+    padding: 2rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+table th, table td {
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+}
